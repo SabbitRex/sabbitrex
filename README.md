@@ -7,6 +7,6 @@
  
  - 👯 I’m looking to collaborate on open-source SDKs and open-source libraries.
  
- - 📫 How to reach me: Connect with me on [Linkedin](https://www.linkedin.com/in/sharadduttasrm/) or [Stack Overflow](https://stackoverflow.com/users/13081151/hornbill)
+ - 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/sharadduttasrm/), also check out my [Stack Overflow](https://stackoverflow.com/users/13081151/hornbill) and [LeetCode](https://leetcode.com/sharaddutta/).
  
  - ⚡ Fun fact: There are no fun fact. Period.
