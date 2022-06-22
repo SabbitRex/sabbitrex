@@ -4,7 +4,7 @@ I am 👨‍ Sharad Dutta, software engineering professional 💻. In my free ti
 
 [![Linkedin Badge](https://img.shields.io/badge/-SharadDutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/sharadduttasrm/)
 [![Gmail Badge](https://img.shields.io/badge/-sharadduttaofficial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sharadduttaofficial@gmail.com)](mailto:sharadduttaofficial@gmail.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mdeboute.mdeboute)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SabbitRex)
 
 
 ### Check out my LeetCode profile [here.](https://leetcode.com/sharaddutta/)
