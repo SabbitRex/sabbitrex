@@ -1,10 +1,10 @@
 ## Hi, I am Sharad Dutta! Great to see you here!
 
-I am 👨‍ Sharad Dutta, software engineering professional 💻. In my free time I like to solve problems on LeetCode. Open to collaborating on projects and innovative/disruptive ideas 🛠. Find out more about me & feel free to connect with me here:
+I am 👨‍ Sharad Dutta, software engineering professional 💻. In my free time I like to solve problems on LeetCode. Open to collaborating on projects and innovative/disruptive ideas 🛠. Find out more about me & feel free to connect with me 📱.
 
 [![Linkedin Badge](https://img.shields.io/badge/-SharadDutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/sharadduttasrm/)
 [![Gmail Badge](https://img.shields.io/badge/-sharadduttaofficial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sharadduttaofficial@gmail.com)](mailto:sharadduttaofficial@gmail.com)
-[![LeetCode Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://leetcode.com/sharaddutta/)](https://leetcode.com/sharaddutta/)
+[![LeetCode Badge](https://code.iconify.design/2/2.2.1/iconify.min.js=https://leetcode.com/sharaddutta/)](https://leetcode.com/sharaddutta/)
 
 <br>
 
