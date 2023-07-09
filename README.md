@@ -11,10 +11,6 @@ I am 👨‍ Sharad Dutta, software engineering professional 💻. In my free ti
 
 <br>
 
-[![Sharad's github activity graph](https://activity-graph.herokuapp.com/graph?username=SabbitRex&theme=xcode)](https://git.io/SabbitRex)
-
-<br>
-
 ### Language : Java, C#
 
 <br>
