@@ -9,8 +9,6 @@ I am 👨‍ Sharad Dutta, software engineering professional 💻. In my free ti
 
 ### Check out my LeetCode profile [here.](https://leetcode.com/sharaddutta/)
 
-<br>
-
 ### Language : Java, C#
 
 <br>
